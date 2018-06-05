@@ -1,0 +1,9 @@
+bin/
+cached/
+finished/
+include/
+lib/
+pymysqlbatchimport/
+pyvenv.cfg
+import.cnf
+*.swp
