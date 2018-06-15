@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": ".pyenv/bin/python",
+		"python.venvFolders": [
+			"envs",
+			".pyenv",
+			".direnv"
+		],
+		"csv-preview.hasHeaders": false
+	}
+}

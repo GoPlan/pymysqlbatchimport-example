@@ -1,8 +1,8 @@
-bin/
 cached/
 finished/
-include/
-lib/
-pymysqlbatchimport/
-pyvenv.cfg
+
+pymysqlbatchimport
+.pyenv/
+.vscode/
+
 *.swp
