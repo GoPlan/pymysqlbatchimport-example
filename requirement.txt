@@ -1,3 +1,4 @@
 # Dependency Requirement
+pymysqlbatchimport
 mysql-connector-python
 faker
