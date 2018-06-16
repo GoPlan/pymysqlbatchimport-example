@@ -1,9 +1,12 @@
+data/
 cached/
 finished/
+log/
 
 pymysqlbatchimport
 .pyenv/
 .vscode/
+.ropeproject/
 
 __pycache__/
 
