@@ -1,2 +1,3 @@
 # Dependency Requirement
 mysql-connector-python
+faker
